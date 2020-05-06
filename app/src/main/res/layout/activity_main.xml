@@ -23,6 +23,9 @@
 
 
     <com.baherandroid.customfancontroller.DialView
+        app:fanColor1="#FFEB3B"
+        app:fanColor2="#CDDC39"
+        app:fanColor3="#009688"
         android:id="@+id/dialView"
         android:layout_width="@dimen/fan_dimen"
         android:layout_height="@dimen/fan_dimen"
